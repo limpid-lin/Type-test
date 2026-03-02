@@ -1,18 +1,14 @@
 <template>
-  <router-view :key="id"/>
+  <router-view :key="routeKey"/>
 </template>
 
-<script>
-import './store/index.js';
-import { useRoute } from 'vue-router';
-export default {
-  name: 'App',
-  setup() {
-    const route = useRoute();
-    const { id } = route.params;
-    return {
-      id
-    };
-  },
-};
+<script setup lang="ts">
+import { computed } from 'vue'
+import { useRoute } from 'vue-router'
+import { initStores } from './stores'
+
+const route = useRoute()
+const routeKey = computed(() => route.fullPath)
+
+initStores()
 </script>

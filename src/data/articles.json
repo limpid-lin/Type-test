@@ -1,0 +1,578 @@
+{
+  "cnArticles": [
+    {
+      "id": "1",
+      "language": "cn",
+      "title": "静夜思",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        [
+          { "hanzi": "床", "pinyinTone": "chuáng", "pinyin": "chuang" },
+          { "hanzi": "前", "pinyinTone": "qián", "pinyin": "qian" },
+          { "hanzi": "明", "pinyinTone": "míng", "pinyin": "ming" },
+          { "hanzi": "月", "pinyinTone": "yuè", "pinyin": "yue" },
+          { "hanzi": "光", "pinyinTone": "guāng", "pinyin": "guang" }
+        ],
+        [
+          { "hanzi": "疑", "pinyinTone": "yí", "pinyin": "yi" },
+          { "hanzi": "是", "pinyinTone": "shì", "pinyin": "shi" },
+          { "hanzi": "地", "pinyinTone": "dì", "pinyin": "di" },
+          { "hanzi": "上", "pinyinTone": "shàng", "pinyin": "shang" },
+          { "hanzi": "霜", "pinyinTone": "shuāng", "pinyin": "shuang" }
+        ],
+        [
+          { "hanzi": "举", "pinyinTone": "jǔ", "pinyin": "ju" },
+          { "hanzi": "头", "pinyinTone": "tóu", "pinyin": "tou" },
+          { "hanzi": "望", "pinyinTone": "wàng", "pinyin": "wang" },
+          { "hanzi": "明", "pinyinTone": "míng", "pinyin": "ming" },
+          { "hanzi": "月", "pinyinTone": "yuè", "pinyin": "yue" }
+        ],
+        [
+          { "hanzi": "低", "pinyinTone": "dī", "pinyin": "di" },
+          { "hanzi": "头", "pinyinTone": "tóu", "pinyin": "tou" },
+          { "hanzi": "思", "pinyinTone": "sī", "pinyin": "si" },
+          { "hanzi": "故", "pinyinTone": "gù", "pinyin": "gu" },
+          { "hanzi": "乡", "pinyinTone": "xiāng", "pinyin": "xiang" }
+        ]
+      ]
+    },
+    {
+      "id": "2",
+      "language": "cn",
+      "title": "春晓",
+      "dynasty": "唐",
+      "author": "孟浩然",
+      "content": [
+        [
+          { "hanzi": "春", "pinyinTone": "chūn", "pinyin": "chun" },
+          { "hanzi": "眠", "pinyinTone": "mián", "pinyin": "mian" },
+          { "hanzi": "不", "pinyinTone": "bù", "pinyin": "bu" },
+          { "hanzi": "觉", "pinyinTone": "jué", "pinyin": "jue" },
+          { "hanzi": "晓", "pinyinTone": "xiǎo", "pinyin": "xiao" }
+        ],
+        [
+          { "hanzi": "处", "pinyinTone": "chù", "pinyin": "chu" },
+          { "hanzi": "处", "pinyinTone": "chù", "pinyin": "chu" },
+          { "hanzi": "闻", "pinyinTone": "wén", "pinyin": "wen" },
+          { "hanzi": "啼", "pinyinTone": "tí", "pinyin": "ti" },
+          { "hanzi": "鸟", "pinyinTone": "niǎo", "pinyin": "niao" }
+        ],
+        [
+          { "hanzi": "夜", "pinyinTone": "yè", "pinyin": "ye" },
+          { "hanzi": "来", "pinyinTone": "lái", "pinyin": "lai" },
+          { "hanzi": "风", "pinyinTone": "fēng", "pinyin": "feng" },
+          { "hanzi": "雨", "pinyinTone": "yǔ", "pinyin": "yu" },
+          { "hanzi": "声", "pinyinTone": "shēng", "pinyin": "sheng" }
+        ],
+        [
+          { "hanzi": "花", "pinyinTone": "huā", "pinyin": "hua" },
+          { "hanzi": "落", "pinyinTone": "luò", "pinyin": "luo" },
+          { "hanzi": "知", "pinyinTone": "zhī", "pinyin": "zhi" },
+          { "hanzi": "多", "pinyinTone": "duō", "pinyin": "duo" },
+          { "hanzi": "少", "pinyinTone": "shǎo", "pinyin": "shao" }
+        ]
+      ]
+    },
+    {
+      "id": "3",
+      "language": "cn",
+      "title": "将进酒",
+      "dynasty": "唐",
+      "author": "李白",
+      "content": [
+        [
+          { "hanzi": "君", "pinyinTone": "jūn", "pinyin": "jun" },
+          { "hanzi": "不", "pinyinTone": "bù", "pinyin": "bu" },
+          { "hanzi": "见", "pinyinTone": "jiàn", "pinyin": "jian" },
+          { "hanzi": "黄", "pinyinTone": "huáng", "pinyin": "huang" },
+          { "hanzi": "河", "pinyinTone": "hé", "pinyin": "he" },
+          { "hanzi": "之", "pinyinTone": "zhī", "pinyin": "zhi" },
+          { "hanzi": "水", "pinyinTone": "shuǐ", "pinyin": "shui" },
+          { "hanzi": "天", "pinyinTone": "tiān", "pinyin": "tian" },
+          { "hanzi": "上", "pinyinTone": "shàng", "pinyin": "shang" },
+          { "hanzi": "来", "pinyinTone": "lái", "pinyin": "lai" }
+        ],
+        [
+          { "hanzi": "奔", "pinyinTone": "bēn", "pinyin": "ben" },
+          { "hanzi": "流", "pinyinTone": "liú", "pinyin": "liu" },
+          { "hanzi": "到", "pinyinTone": "dào", "pinyin": "dao" },
+          { "hanzi": "海", "pinyinTone": "hǎi", "pinyin": "hai" },
+          { "hanzi": "不", "pinyinTone": "bù", "pinyin": "bu" },
+          { "hanzi": "复", "pinyinTone": "fù", "pinyin": "fu" },
+          { "hanzi": "回", "pinyinTone": "huí", "pinyin": "hui" }
+        ],
+        [
+          { "hanzi": "君", "pinyinTone": "jūn", "pinyin": "jun" },
+          { "hanzi": "不", "pinyinTone": "bù", "pinyin": "bu" },
+          { "hanzi": "见", "pinyinTone": "jiàn", "pinyin": "jian" },
+          { "hanzi": "高", "pinyinTone": "gāo", "pinyin": "gao" },
+          { "hanzi": "堂", "pinyinTone": "táng", "pinyin": "tang" },
+          { "hanzi": "明", "pinyinTone": "míng", "pinyin": "ming" },
+          { "hanzi": "镜", "pinyinTone": "jìng", "pinyin": "jing" },
+          { "hanzi": "悲", "pinyinTone": "bēi", "pinyin": "bei" },
+          { "hanzi": "白", "pinyinTone": "bái", "pinyin": "bai" },
+          { "hanzi": "发", "pinyinTone": "fà", "pinyin": "fa" }
+        ],
+        [
+          { "hanzi": "朝", "pinyinTone": "zhāo", "pinyin": "zhao" },
+          { "hanzi": "如", "pinyinTone": "rú", "pinyin": "ru" },
+          { "hanzi": "青", "pinyinTone": "qīng", "pinyin": "qing" },
+          { "hanzi": "丝", "pinyinTone": "sī", "pinyin": "si" },
+          { "hanzi": "暮", "pinyinTone": "mù", "pinyin": "mu" },
+          { "hanzi": "成", "pinyinTone": "chéng", "pinyin": "cheng" },
+          { "hanzi": "雪", "pinyinTone": "xuě", "pinyin": "xue" }
+        ],
+        [
+          { "hanzi": "人", "pinyinTone": "rén", "pinyin": "ren" },
+          { "hanzi": "生", "pinyinTone": "shēng", "pinyin": "sheng" },
+          { "hanzi": "得", "pinyinTone": "dé", "pinyin": "de" },
+          { "hanzi": "意", "pinyinTone": "yì", "pinyin": "yi" },
+          { "hanzi": "须", "pinyinTone": "xū", "pinyin": "xu" },
+          { "hanzi": "尽", "pinyinTone": "jìn", "pinyin": "jin" },
+          { "hanzi": "欢", "pinyinTone": "huān", "pinyin": "huan" }
+        ],
+        [
+          { "hanzi": "莫", "pinyinTone": "mò", "pinyin": "mo" },
+          { "hanzi": "使", "pinyinTone": "shǐ", "pinyin": "shi" },
+          { "hanzi": "金", "pinyinTone": "jīn", "pinyin": "jin" },
+          { "hanzi": "樽", "pinyinTone": "zūn", "pinyin": "zun" },
+          { "hanzi": "空", "pinyinTone": "kōng", "pinyin": "kong" },
+          { "hanzi": "对", "pinyinTone": "duì", "pinyin": "dui" },
+          { "hanzi": "月", "pinyinTone": "yuè", "pinyin": "yue" }
+        ],
+        [
+          { "hanzi": "天", "pinyinTone": "tiān", "pinyin": "tian" },
+          { "hanzi": "生", "pinyinTone": "shēng", "pinyin": "sheng" },
+          { "hanzi": "我", "pinyinTone": "wǒ", "pinyin": "wo" },
+          { "hanzi": "材", "pinyinTone": "cái", "pinyin": "cai" },
+          { "hanzi": "必", "pinyinTone": "bì", "pinyin": "bi" },
+          { "hanzi": "有", "pinyinTone": "yǒu", "pinyin": "you" },
+          { "hanzi": "用", "pinyinTone": "yòng", "pinyin": "yong" }
+        ],
+        [
+          { "hanzi": "千", "pinyinTone": "qiān", "pinyin": "qian" },
+          { "hanzi": "金", "pinyinTone": "jīn", "pinyin": "jin" },
+          { "hanzi": "散", "pinyinTone": "sàn", "pinyin": "san" },
+          { "hanzi": "尽", "pinyinTone": "jìn", "pinyin": "jin" },
+          { "hanzi": "还", "pinyinTone": "huán", "pinyin": "huan" },
+          { "hanzi": "复", "pinyinTone": "fù", "pinyin": "fu" },
+          { "hanzi": "来", "pinyinTone": "lái", "pinyin": "lai" }
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "language": "cn",
+      "title": "水调歌头·明月几时有",
+      "dynasty": "宋",
+      "author": "苏轼",
+      "content": [
+        [
+          { "hanzi": "明", "pinyinTone": "míng", "pinyin": "ming" },
+          { "hanzi": "月", "pinyinTone": "yuè", "pinyin": "yue" },
+          { "hanzi": "几", "pinyinTone": "jǐ", "pinyin": "ji" },
+          { "hanzi": "时", "pinyinTone": "shí", "pinyin": "shi" },
+          { "hanzi": "有", "pinyinTone": "yǒu", "pinyin": "you" },
+          { "hanzi": "把", "pinyinTone": "bǎ", "pinyin": "ba" },
+          { "hanzi": "酒", "pinyinTone": "jiǔ", "pinyin": "jiu" },
+          { "hanzi": "问", "pinyinTone": "wèn", "pinyin": "wen" },
+          { "hanzi": "青", "pinyinTone": "qīng", "pinyin": "qing" },
+          { "hanzi": "天", "pinyinTone": "tiān", "pinyin": "tian" }
+        ],
+        [
+          { "hanzi": "不", "pinyinTone": "bù", "pinyin": "bu" },
+          { "hanzi": "知", "pinyinTone": "zhī", "pinyin": "zhi" },
+          { "hanzi": "天", "pinyinTone": "tiān", "pinyin": "tian" },
+          { "hanzi": "上", "pinyinTone": "shàng", "pinyin": "shang" },
+          { "hanzi": "宫", "pinyinTone": "gōng", "pinyin": "gong" },
+          { "hanzi": "阙", "pinyinTone": "què", "pinyin": "que" },
+          { "hanzi": "今", "pinyinTone": "jīn", "pinyin": "jin" },
+          { "hanzi": "夕", "pinyinTone": "xī", "pinyin": "xi" },
+          { "hanzi": "是", "pinyinTone": "shì", "pinyin": "shi" },
+          { "hanzi": "何", "pinyinTone": "hé", "pinyin": "he" },
+          { "hanzi": "年", "pinyinTone": "nián", "pinyin": "nian" }
+        ],
+        [
+          { "hanzi": "我", "pinyinTone": "wǒ", "pinyin": "wo" },
+          { "hanzi": "欲", "pinyinTone": "yù", "pinyin": "yu" },
+          { "hanzi": "乘", "pinyinTone": "chéng", "pinyin": "cheng" },
+          { "hanzi": "风", "pinyinTone": "fēng", "pinyin": "feng" },
+          { "hanzi": "归", "pinyinTone": "guī", "pinyin": "gui" },
+          { "hanzi": "去", "pinyinTone": "qù", "pinyin": "qu" },
+          { "hanzi": "又", "pinyinTone": "yòu", "pinyin": "you" },
+          { "hanzi": "恐", "pinyinTone": "kǒng", "pinyin": "kong" },
+          { "hanzi": "琼", "pinyinTone": "qióng", "pinyin": "qiong" },
+          { "hanzi": "楼", "pinyinTone": "lóu", "pinyin": "lou" },
+          { "hanzi": "玉", "pinyinTone": "yù", "pinyin": "yu" },
+          { "hanzi": "宇", "pinyinTone": "yǔ", "pinyin": "yu" }
+        ],
+        [
+          { "hanzi": "高", "pinyinTone": "gāo", "pinyin": "gao" },
+          { "hanzi": "处", "pinyinTone": "chù", "pinyin": "chu" },
+          { "hanzi": "不", "pinyinTone": "bù", "pinyin": "bu" },
+          { "hanzi": "胜", "pinyinTone": "shèng", "pinyin": "sheng" },
+          { "hanzi": "寒", "pinyinTone": "hán", "pinyin": "han" }
+        ],
+        [
+          { "hanzi": "起", "pinyinTone": "qǐ", "pinyin": "qi" },
+          { "hanzi": "舞", "pinyinTone": "wǔ", "pinyin": "wu" },
+          { "hanzi": "弄", "pinyinTone": "nòng", "pinyin": "nong" },
+          { "hanzi": "清", "pinyinTone": "qīng", "pinyin": "qing" },
+          { "hanzi": "影", "pinyinTone": "yǐng", "pinyin": "ying" },
+          { "hanzi": "何", "pinyinTone": "hé", "pinyin": "he" },
+          { "hanzi": "似", "pinyinTone": "sì", "pinyin": "si" },
+          { "hanzi": "在", "pinyinTone": "zài", "pinyin": "zai" },
+          { "hanzi": "人", "pinyinTone": "rén", "pinyin": "ren" },
+          { "hanzi": "间", "pinyinTone": "jiān", "pinyin": "jian" }
+        ],
+        [
+          { "hanzi": "转", "pinyinTone": "zhuǎn", "pinyin": "zhuan" },
+          { "hanzi": "朱", "pinyinTone": "zhū", "pinyin": "zhu" },
+          { "hanzi": "阁", "pinyinTone": "gé", "pinyin": "ge" },
+          { "hanzi": "低", "pinyinTone": "dī", "pinyin": "di" },
+          { "hanzi": "绮", "pinyinTone": "qǐ", "pinyin": "qi" },
+          { "hanzi": "户", "pinyinTone": "hù", "pinyin": "hu" },
+          { "hanzi": "照", "pinyinTone": "zhào", "pinyin": "zhao" },
+          { "hanzi": "无", "pinyinTone": "wú", "pinyin": "wu" },
+          { "hanzi": "眠", "pinyinTone": "mián", "pinyin": "mian" }
+        ],
+        [
+          { "hanzi": "不", "pinyinTone": "bù", "pinyin": "bu" },
+          { "hanzi": "应", "pinyinTone": "yīng", "pinyin": "ying" },
+          { "hanzi": "有", "pinyinTone": "yǒu", "pinyin": "you" },
+          { "hanzi": "恨", "pinyinTone": "hèn", "pinyin": "hen" },
+          { "hanzi": "何", "pinyinTone": "hé", "pinyin": "he" },
+          { "hanzi": "事", "pinyinTone": "shì", "pinyin": "shi" },
+          { "hanzi": "长", "pinyinTone": "cháng", "pinyin": "chang" },
+          { "hanzi": "向", "pinyinTone": "xiàng", "pinyin": "xiang" },
+          { "hanzi": "别", "pinyinTone": "bié", "pinyin": "bie" },
+          { "hanzi": "时", "pinyinTone": "shí", "pinyin": "shi" },
+          { "hanzi": "圆", "pinyinTone": "yuán", "pinyin": "yuan" }
+        ],
+        [
+          { "hanzi": "人", "pinyinTone": "rén", "pinyin": "ren" },
+          { "hanzi": "有", "pinyinTone": "yǒu", "pinyin": "you" },
+          { "hanzi": "悲", "pinyinTone": "bēi", "pinyin": "bei" },
+          { "hanzi": "欢", "pinyinTone": "huān", "pinyin": "huan" },
+          { "hanzi": "离", "pinyinTone": "lí", "pinyin": "li" },
+          { "hanzi": "合", "pinyinTone": "hé", "pinyin": "he" },
+          { "hanzi": "月", "pinyinTone": "yuè", "pinyin": "yue" },
+          { "hanzi": "有", "pinyinTone": "yǒu", "pinyin": "you" },
+          { "hanzi": "阴", "pinyinTone": "yīn", "pinyin": "yin" },
+          { "hanzi": "晴", "pinyinTone": "qíng", "pinyin": "qing" },
+          { "hanzi": "圆", "pinyinTone": "yuán", "pinyin": "yuan" },
+          { "hanzi": "缺", "pinyinTone": "quē", "pinyin": "que" }
+        ],
+        [
+          { "hanzi": "此", "pinyinTone": "cǐ", "pinyin": "ci" },
+          { "hanzi": "事", "pinyinTone": "shì", "pinyin": "shi" },
+          { "hanzi": "古", "pinyinTone": "gǔ", "pinyin": "gu" },
+          { "hanzi": "难", "pinyinTone": "nán", "pinyin": "nan" },
+          { "hanzi": "全", "pinyinTone": "quán", "pinyin": "quan" }
+        ],
+        [
+          { "hanzi": "但", "pinyinTone": "dàn", "pinyin": "dan" },
+          { "hanzi": "愿", "pinyinTone": "yuàn", "pinyin": "yuan" },
+          { "hanzi": "人", "pinyinTone": "rén", "pinyin": "ren" },
+          { "hanzi": "长", "pinyinTone": "cháng", "pinyin": "chang" },
+          { "hanzi": "久", "pinyinTone": "jiǔ", "pinyin": "jiu" },
+          { "hanzi": "千", "pinyinTone": "qiān", "pinyin": "qian" },
+          { "hanzi": "里", "pinyinTone": "lǐ", "pinyin": "li" },
+          { "hanzi": "共", "pinyinTone": "gòng", "pinyin": "gong" },
+          { "hanzi": "婵", "pinyinTone": "chán", "pinyin": "chan" },
+          { "hanzi": "娟", "pinyinTone": "juān", "pinyin": "juan" }
+        ]
+      ]
+    }
+  ],
+  "enArticles": [
+    {
+      "id": "1",
+      "language": "en",
+      "title": "The Road Not Taken",
+      "content": [
+        "Two roads diverged in a yellow wood,",
+        "And sorry I could not travel both",
+        "And be one traveler, long I stood",
+        "And looked down one as far as I could",
+        "To where it bent in the undergrowth;"
+      ]
+    },
+    {
+      "id": "2",
+      "language": "en",
+      "title": "A Bright Day",
+      "content": [
+        "The sun rises gently over the horizon,",
+        "Painting the sky in hues of gold and blue.",
+        "Birds sing their morning melodies,",
+        "Welcoming another beautiful day.",
+        "Every moment is a fresh beginning."
+      ]
+    },
+    {
+      "id": "3",
+      "language": "en",
+      "title": "Learning to Code",
+      "content": [
+        "Programming is not about typing,",
+        "It is about thinking and solving problems.",
+        "Every bug is an opportunity to learn,",
+        "Every feature is a chance to create.",
+        "Keep practicing, keep improving."
+      ]
+    },
+    {
+      "id": "4",
+      "language": "en",
+      "title": "The Art of Persistence",
+      "content": [
+        "Success is not final, failure is not fatal.",
+        "It is the courage to continue that counts.",
+        "Every setback is a setup for a comeback.",
+        "The path to greatness is paved with persistence.",
+        "When you feel like quitting, remember why you started.",
+        "Dreams do not work unless you do.",
+        "The only way to fail is to give up.",
+        "Your struggle today builds your strength for tomorrow.",
+        "Keep pushing forward, one step at a time.",
+        "The view from the top is worth every step of the climb."
+      ]
+    },
+    {
+      "id": "5",
+      "language": "en",
+      "title": "Digital Age Reflections",
+      "content": [
+        "In this digital age we live and breathe,",
+        "Technology connects us across the globe.",
+        "Screens light up our daily lives,",
+        "Information flows at lightning speed.",
+        "Yet we must not forget the simple joys,",
+        "A walk in nature, a heartfelt conversation,",
+        "The warmth of a smile, the touch of a hand.",
+        "Balance is key in this modern world,",
+        "Embrace the new but cherish the old,",
+        "For in harmony we find true fulfillment.",
+        "Let us navigate this digital landscape wisely,",
+        "Using tools to enhance, not replace our humanity.",
+        "The future is bright for those who adapt,",
+        "While staying grounded in what truly matters."
+      ]
+    }
+  ],
+  "hanziArticles": [
+    {
+      "id": "1",
+      "language": "hanzi",
+      "title": "常用汉字练习",
+      "content": [
+        [
+          { "hanzi": "的" },
+          { "hanzi": "一" },
+          { "hanzi": "是" },
+          { "hanzi": "了" },
+          { "hanzi": "我" }
+        ],
+        [
+          { "hanzi": "不" },
+          { "hanzi": "人" },
+          { "hanzi": "在" },
+          { "hanzi": "他" },
+          { "hanzi": "有" }
+        ],
+        [
+          { "hanzi": "这" },
+          { "hanzi": "个" },
+          { "hanzi": "中" },
+          { "hanzi": "上" },
+          { "hanzi": "来" }
+        ]
+      ]
+    },
+    {
+      "id": "2",
+      "language": "hanzi",
+      "title": "成语练习",
+      "content": [
+        [
+          { "hanzi": "一" },
+          { "hanzi": "心" },
+          { "hanzi": "一" },
+          { "hanzi": "意" }
+        ],
+        [
+          { "hanzi": "风" },
+          { "hanzi": "和" },
+          { "hanzi": "日" },
+          { "hanzi": "丽" }
+        ],
+        [
+          { "hanzi": "春" },
+          { "hanzi": "暖" },
+          { "hanzi": "花" },
+          { "hanzi": "开" }
+        ]
+      ]
+    },
+    {
+      "id": "3",
+      "language": "hanzi",
+      "title": "诗词名句",
+      "content": [
+        [
+          { "hanzi": "白" },
+          { "hanzi": "日" },
+          { "hanzi": "依" },
+          { "hanzi": "山" },
+          { "hanzi": "尽" }
+        ],
+        [
+          { "hanzi": "黄" },
+          { "hanzi": "河" },
+          { "hanzi": "入" },
+          { "hanzi": "海" },
+          { "hanzi": "流" }
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "language": "hanzi",
+      "title": "经典古文选段",
+      "content": [
+        [
+          { "hanzi": "天" },
+          { "hanzi": "行" },
+          { "hanzi": "健" },
+          { "hanzi": "君" },
+          { "hanzi": "子" },
+          { "hanzi": "以" },
+          { "hanzi": "自" },
+          { "hanzi": "强" },
+          { "hanzi": "不" },
+          { "hanzi": "息" }
+        ],
+        [
+          { "hanzi": "地" },
+          { "hanzi": "势" },
+          { "hanzi": "坤" },
+          { "hanzi": "君" },
+          { "hanzi": "子" },
+          { "hanzi": "以" },
+          { "hanzi": "厚" },
+          { "hanzi": "德" },
+          { "hanzi": "载" },
+          { "hanzi": "物" }
+        ],
+        [
+          { "hanzi": "学" },
+          { "hanzi": "而" },
+          { "hanzi": "不" },
+          { "hanzi": "思" },
+          { "hanzi": "则" },
+          { "hanzi": "罔" },
+          { "hanzi": "思" },
+          { "hanzi": "而" },
+          { "hanzi": "不" },
+          { "hanzi": "学" },
+          { "hanzi": "则" },
+          { "hanzi": "殆" }
+        ],
+        [
+          { "hanzi": "三" },
+          { "hanzi": "人" },
+          { "hanzi": "行" },
+          { "hanzi": "必" },
+          { "hanzi": "有" },
+          { "hanzi": "我" },
+          { "hanzi": "师" },
+          { "hanzi": "焉" }
+        ],
+        [
+          { "hanzi": "知" },
+          { "hanzi": "之" },
+          { "hanzi": "为" },
+          { "hanzi": "知" },
+          { "hanzi": "之" },
+          { "hanzi": "不" },
+          { "hanzi": "知" },
+          { "hanzi": "为" },
+          { "hanzi": "不" },
+          { "hanzi": "知" },
+          { "hanzi": "是" },
+          { "hanzi": "知" },
+          { "hanzi": "也" }
+        ]
+      ]
+    },
+    {
+      "id": "5",
+      "language": "hanzi",
+      "title": "生活常用词汇",
+      "content": [
+        [
+          { "hanzi": "工" },
+          { "hanzi": "作" },
+          { "hanzi": "学" },
+          { "hanzi": "习" },
+          { "hanzi": "生" },
+          { "hanzi": "活" },
+          { "hanzi": "家" },
+          { "hanzi": "庭" }
+        ],
+        [
+          { "hanzi": "电" },
+          { "hanzi": "脑" },
+          { "hanzi": "手" },
+          { "hanzi": "机" },
+          { "hanzi": "网" },
+          { "hanzi": "络" },
+          { "hanzi": "科" },
+          { "hanzi": "技" }
+        ],
+        [
+          { "hanzi": "早" },
+          { "hanzi": "晨" },
+          { "hanzi": "中" },
+          { "hanzi": "午" },
+          { "hanzi": "傍" },
+          { "hanzi": "晚" },
+          { "hanzi": "夜" },
+          { "hanzi": "晚" }
+        ],
+        [
+          { "hanzi": "春" },
+          { "hanzi": "天" },
+          { "hanzi": "夏" },
+          { "hanzi": "天" },
+          { "hanzi": "秋" },
+          { "hanzi": "天" },
+          { "hanzi": "冬" },
+          { "hanzi": "天" }
+        ],
+        [
+          { "hanzi": "快" },
+          { "hanzi": "乐" },
+          { "hanzi": "幸" },
+          { "hanzi": "福" },
+          { "hanzi": "健" },
+          { "hanzi": "康" },
+          { "hanzi": "平" },
+          { "hanzi": "安" }
+        ],
+        [
+          { "hanzi": "朋" },
+          { "hanzi": "友" },
+          { "hanzi": "亲" },
+          { "hanzi": "人" },
+          { "hanzi": "同" },
+          { "hanzi": "事" },
+          { "hanzi": "邻" },
+          { "hanzi": "居" }
+        ]
+      ]
+    }
+  ]
+}

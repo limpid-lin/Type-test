@@ -1,3 +1,7 @@
+@use 'sass:meta';
+
+@include meta.load-css('./theme.scss');
+
 html{
   font-size: 100px;
 }
