@@ -29,6 +29,7 @@
 ![首页预览](./screenshots/home.png)
 ![英文练习](./screenshots/english-practice.png)
 ![中文拼音练习](./screenshots/pinyin-practice.png)
+![汉字专项练习](./screenshots/hanzi-practice.png)
 ![成绩统计](./screenshots/stats.png)
 
 
@@ -97,13 +98,6 @@ Type-test/
 ├── src/
 │   ├── assets/                    # 静态资源目录
 │   │   ├── audios/               # 音效文件
-│   │   │   ├── duck.mp3          # 鸭子音效
-│   │   │   ├── dog.mp3           # 狗叫音效
-│   │   │   ├── koubanji.mp3      # 口扳机音效
-│   │   │   ├── tengtong.mp3      # 疼痛音效
-│   │   │   ├── 点击音效.mp3       # 点击音效
-│   │   │   ├── 胜利号角.mp3       # 胜利音效
-│   │   │   └── 街机游戏按钮.mp3    # 街机按钮音效
 │   │   └── vue.svg               # Vue Logo
 │   │
 │   ├── components/               # Vue 组件目录
@@ -266,11 +260,6 @@ npm run preview
 - **自定义 Prompt**：支持用户自定义提示词，灵活控制生成内容
 - **流式生成**：实时显示生成进度，提升用户体验
 - **本地存储**：生成的文章自动保存，支持重复使用
-
-AI 生成模块核心文件：
-- `src/components/AIGenerator.vue` - AI 生成器 UI 组件
-- `src/stores/ai.ts` - AI 状态管理和 API 调用
-- `src/types/ai.ts` - AI 相关类型定义和主题配置
 
 ### 实时统计计算
 - **WPM** (Words Per Minute) - 每分钟单词数

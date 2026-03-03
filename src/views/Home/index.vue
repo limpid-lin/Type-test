@@ -28,7 +28,7 @@
               </defs>
             </svg>
           </div>
-          <span class="brand-text">TypeFlow</span>
+          <span class="brand-text">VoleType</span>
         </div>
 
         <div class="nav-actions">

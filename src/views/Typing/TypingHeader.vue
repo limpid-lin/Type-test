@@ -19,7 +19,7 @@
             </defs>
           </svg>
         </div>
-        <span class="brand-text">TypeFlow</span>
+        <span class="brand-text">VoleType</span>
       </div>
 
       <!-- 中间区域：文章标题和作者信息 -->

@@ -700,6 +700,7 @@ defineExpose({
   padding: 16px 20px;
   background: var(--bg-secondary);
   border-radius: 14px;
+  margin-bottom: 18px;
 }
 
 .master-toggle-left {
